@@ -1,0 +1,10 @@
+C:\Users\melik\Desktop\vize\PetrolOtomasyon\PetrolOtomasyon\bin\Debug\PetrolOtomasyon.exe.config
+C:\Users\melik\Desktop\vize\PetrolOtomasyon\PetrolOtomasyon\bin\Debug\PetrolOtomasyon.exe
+C:\Users\melik\Desktop\vize\PetrolOtomasyon\PetrolOtomasyon\bin\Debug\PetrolOtomasyon.pdb
+C:\Users\melik\Desktop\vize\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.csproj.AssemblyReference.cache
+C:\Users\melik\Desktop\vize\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.Form1.resources
+C:\Users\melik\Desktop\vize\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.Properties.Resources.resources
+C:\Users\melik\Desktop\vize\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.csproj.GenerateResource.cache
+C:\Users\melik\Desktop\vize\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\vize\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.exe
+C:\Users\melik\Desktop\vize\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.pdb
